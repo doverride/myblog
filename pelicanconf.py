@@ -19,10 +19,10 @@ AUTHOR_FEED_ATOM = 'feeds/{slug}.atom.xml'
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('My Site', 'https://tfirg.undo.it/~kcinimod/stuff, '),)
+LINKS = (('My Site', 'https://tfirg.undo.it/~kcinimod/stuff'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/moverride, '),)
+SOCIAL = (('Twitter', 'https://twitter.com/moverride'),)
 
 DEFAULT_PAGINATION = 10
 
