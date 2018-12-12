@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'dgrift'
-SITENAME = 'My Pelican Blogger'
+SITENAME = 'My Blog'
 SITEURL = 'https://dgrift.home.xs4all.nl'
 
 PATH = 'content'
@@ -19,7 +19,7 @@ AUTHOR_FEED_ATOM = 'feeds/{slug}.atom.xml'
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('My Site', 'https://tfirg.undo.it/~kcinimod/stuff'),)
+LINKS = (('Github', 'https://github.com/doverride/myblog'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/moverride'),)
