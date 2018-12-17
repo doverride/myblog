@@ -19,7 +19,8 @@ AUTHOR_FEED_ATOM = 'feeds/{slug}.atom.xml'
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Github', 'https://github.com/doverride/myblog'),)
+LINKS = (('Github', 'https://github.com/doverride/myblog'),
+    ('Fedora DSSP2 RPM repository', "https://dgrift.home.xs4all.nl/dssp2"),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/moverride'),)
